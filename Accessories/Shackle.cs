@@ -25,5 +25,32 @@ namespace BetterTerraria
                 item.defense = 3;
             }
         }
+
+        public override void AddRecipes()
+        {
+            Recipe shackle = Recipe.Create(ItemID.Shackle, 1);
+            shackle.AddRecipeGroup(RecipeGroupID.IronBar, 5);
+            shackle.AddIngredient(ItemID.Chain, 20);
+            shackle.Register();
+        }
+
+        public override void ModifyTooltips(Item item, List<TooltipLine> tooltips)
+        {
+            // Shackle
+            if (item.type == ItemID.Shackle)
+            {
+                TooltipLine line = new TooltipLine(Mod, "Movement", "Reduces damage taken by 5%");
+                tooltips.Insert(tooltips.Count - 1, line);
+            }
+        }
+        
+        public override void UpdateEquip(Item item, Player player)
+        {
+            if (item.type == ItemID.Shackle)
+            {
+                item.rare = ItemRarityID.Green;
+                player.endurance += 0.05f;
+            }
+        }
     }
 }

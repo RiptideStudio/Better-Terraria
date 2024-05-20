@@ -24,9 +24,15 @@ Items: {
 		DisplayName: Legal Gun Parts
 		Tooltip: "'Allowed in most places'"
 	}
+
+	RubberBullet: {
+		DisplayName: Rubber Bullet
+		Tooltip: Bounces off walls
+	}
 }
 
 Projectiles: {
 	RustyKnifeProjectile.DisplayName: Rusty Knife Projectile
 	FlamingDaggerProjectile.DisplayName: Flaming Dagger Projectile
+	RubberBulletProjectile.DisplayName: Rubber Bullet Projectile
 }

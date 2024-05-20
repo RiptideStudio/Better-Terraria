@@ -14,13 +14,13 @@ using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using BetterTerraria;
 
-namespace BetterTerraria
+namespace BetterTerraria.Weapons
 {
     public class CactusSword : GlobalItem
     {
         public override void SetDefaults(Item item)
         {
-            if (item == ItemID.CactusSword)
+            if (item.type == ItemID.CactusSword)
             {
                 item.damage = 13;
                 item.scale = 1.25f;

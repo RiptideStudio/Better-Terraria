@@ -14,7 +14,7 @@ using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using BetterTerraria;
 
-namespace BetterTerraria
+namespace BetterTerraria.Weapons.OreGear
 {
     public class TungstenGear : GlobalItem
     {
@@ -24,6 +24,15 @@ namespace BetterTerraria
             {
                 item.damage = 15;
             }
+        }
+
+        public override string IsArmorSet(Item head, Item body, Item legs)
+        {
+            if (body.type == ItemID.TungstenChainmail && legs.type == ItemID.TungstenGreaves && head.type == ItemID.TungstenHelmet)
+            {
+                return "Tungsten Armor";
+            }
+            return "";
         }
     }
 }

@@ -14,7 +14,7 @@ using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using BetterTerraria;
 
-namespace BetterTerraria
+namespace BetterTerraria.Items
 {
     public class FlamingArrow : GlobalItem
     {

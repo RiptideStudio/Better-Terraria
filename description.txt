@@ -1,1 +1,2 @@
-Better Terraria is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Better terraria aims to improve various aspects of the game, from overhauling useless items to making slight modifications to items and enemies. 
+In addition to various overhauls, there are plenty of new items to fix some areas of progression!

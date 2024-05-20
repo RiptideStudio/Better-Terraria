@@ -3,15 +3,16 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using BetterTerraria.Materials;
 using BetterTerraria.Accessories;
+using BetterTerraria.Common;
 
-namespace BetterTerraria.Items
+namespace BetterTerraria
 {
     public class WorldSystem : ModSystem
     {
         // Names of recipe groups for easy use
-        string anyGoldBarName = "Any Gold Bar";
-        string anySilverBarName = "Any Gold Bar";
-        string anyCopperBarName = "Any Copper Bar";
+        string anyGoldBarName = BarNames.AnyGoldBar;
+        string anySilverBarName = BarNames.AnySilverBar;
+        string anyCopperBarName = BarNames.AnyCopperBar;
 
         public override void AddRecipeGroups()
         {
@@ -25,52 +26,11 @@ namespace BetterTerraria.Items
             RecipeGroup.RegisterGroup(anyCopperBarName, copperOrTin);
         }
 
-        // Recipe modification
+        /// <summary>
+        /// Add Bar conversions here
+        /// </summary>
         public override void AddRecipes()
         {
-            // Hermes boots
-            Recipe hermesRecipe = Recipe.Create(ItemID.HermesBoots, 1);
-            hermesRecipe.AddIngredient(ItemID.Silk, 10);
-            hermesRecipe.AddIngredient(ItemID.Feather, 5);
-            hermesRecipe.AddIngredient(ItemID.SwiftnessPotion, 1);
-            hermesRecipe.Register();
-
-            // Band of regen and starpower
-            Recipe regenBand = Recipe.Create(ItemID.BandofRegeneration, 1);
-            regenBand.AddIngredient(ItemID.LifeCrystal, 1);
-            regenBand.AddRecipeGroup(anyGoldBarName, 5);
-            regenBand.Register();
-            Recipe starBand = Recipe.Create(ItemID.BandofStarpower, 1);
-            starBand.AddIngredient(ItemID.ManaCrystal, 3);
-            starBand.AddRecipeGroup(anySilverBarName, 5);
-            starBand.Register();
-
-            // Shackle
-            Recipe shackle = Recipe.Create(ItemID.Shackle, 1);
-            shackle.AddRecipeGroup(RecipeGroupID.IronBar, 5);
-            shackle.AddIngredient(ItemID.Chain, 20);
-            shackle.Register();
-
-            // Throwing knife
-            Recipe throwingKnife = Recipe.Create(ItemID.ThrowingKnife, 5);
-            throwingKnife.AddIngredient(ItemID.StoneBlock, 1);
-            throwingKnife.AddRecipeGroup(RecipeGroupID.Wood, 1);
-            throwingKnife.Register();
-
-            // Shuriken
-            Recipe shurkien = Recipe.Create(ItemID.Shuriken, 10);
-            shurkien.AddIngredient(ItemID.Cactus, 1);
-            shurkien.AddIngredient(ItemID.StoneBlock, 1);
-            shurkien.Register();
-
-            // Arrow recipe alternate
-            Recipe arrow = Recipe.Create(ItemID.WoodenArrow, 100);
-            arrow.AddIngredient(ItemID.StoneBlock, 1);
-            arrow.AddRecipeGroup(RecipeGroupID.Wood, 1);
-            arrow.AddIngredient(ItemID.Feather, 1);
-            arrow.Register();
-
-            // Bar conversion
             Recipe ironBar = Recipe.Create(ItemID.IronBar, 1);
             ironBar.AddIngredient(ItemID.LeadBar, 1);
             ironBar.Register();
@@ -94,23 +54,11 @@ namespace BetterTerraria.Items
             Recipe platinumBar = Recipe.Create(ItemID.PlatinumBar, 1);
             platinumBar.AddIngredient(ItemID.GoldBar, 1);
             platinumBar.Register();
-
-            // Pistol
-            Recipe pistol = Recipe.Create(ItemID.FlintlockPistol, 1);
-            pistol.AddIngredient(ModContent.ItemType<LegalGunParts>(), 1);
-            pistol.AddRecipeGroup(RecipeGroupID.IronBar, 10);
-            pistol.AddRecipeGroup(RecipeGroupID.Wood, 25);
-            pistol.Register();
-
-            // Boomstick
-            Recipe boomStick = Recipe.Create(ItemID.Boomstick, 1);
-            boomStick.AddIngredient(ModContent.ItemType<LegalGunParts>(), 1);
-            boomStick.AddIngredient(ItemID.Vine, 3);
-            boomStick.AddIngredient(ItemID.JungleSpores, 7);
-            boomStick.AddRecipeGroup(RecipeGroupID.IronBar, 10);
-            boomStick.AddIngredient(ItemID.RichMahogany, 25);
-            boomStick.Register();
         }
+
+        /// <summary>
+        /// Remove ingredients from some recipes
+        /// </summary>
         public override void PostAddRecipes()
         {
             for (int i = 0; i < Recipe.numRecipes; i++)
@@ -127,7 +75,7 @@ namespace BetterTerraria.Items
                 if (recipe.HasResult(ItemID.FrostburnArrow))
                 {
                     recipe.RemoveIngredient(ItemID.IceTorch);
-                    recipe.AddIngredient(ItemID.IceTorch, 5);
+                    recipe.AddIngredient(ItemID.IceTorch, 3);
                 }
                 // Copper armor
                 if (recipe.HasResult(ItemID.CopperHelmet))
@@ -183,16 +131,13 @@ namespace BetterTerraria.Items
                 {
                     continue;
                 }
-                if (Main.rand.NextBool(2))
+                for (int j = 0; j < 40; j++)
                 {
-                    for (int j = 0; j < 40; j++)
+                    if (recipe.item[j].type == ItemID.None)
                     {
-                        if (recipe.item[j].type == ItemID.None)
-                        {
-                            recipe.item[j].SetDefaults(itemID, false);
-                            recipe.item[j].stack = Main.rand.Next(2, 5);
-                            break;
-                        }
+                        recipe.item[j].SetDefaults(itemID, false);
+                        recipe.item[j].stack = Main.rand.Next(2, 5);
+                        break;
                     }
                 }
                 if (i >= 999) break;

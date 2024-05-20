@@ -14,7 +14,7 @@ using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using BetterTerraria;
 
-namespace BetterTerraria
+namespace BetterTerraria.Weapons.OreGear
 {
     public class SilverGear : GlobalItem
     {
@@ -24,6 +24,15 @@ namespace BetterTerraria
             {
                 item.damage = 14;
             }
+        }
+
+        public override string IsArmorSet(Item head, Item body, Item legs)
+        {
+            if (body.type == ItemID.SilverChainmail && legs.type == ItemID.SilverGreaves && head.type == ItemID.SilverHelmet)
+            {
+                return "Silver Armor";
+            }
+            return "";
         }
     }
 }
