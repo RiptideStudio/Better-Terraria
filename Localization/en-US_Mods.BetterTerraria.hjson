@@ -1,0 +1,32 @@
+Items: {
+	RustyKnife: {
+		DisplayName: Wooden Dagger
+		Tooltip: ""
+	}
+
+	BigFeather: {
+		DisplayName: Big Feather
+		Tooltip:
+			'''
+			'You feel lighter'
+			15% Increased movement speed
+			Grants a small dash
+			Double-tap left or right to activate the dash
+			'''
+	}
+
+	FlamingDagger: {
+		DisplayName: Flaming Dagger
+		Tooltip: Lights enemies ablaze
+	}
+
+	LegalGunParts: {
+		DisplayName: Legal Gun Parts
+		Tooltip: "'Allowed in most places'"
+	}
+}
+
+Projectiles: {
+	RustyKnifeProjectile.DisplayName: Rusty Knife Projectile
+	FlamingDaggerProjectile.DisplayName: Flaming Dagger Projectile
+}

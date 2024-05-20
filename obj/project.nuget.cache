@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfnD+CvKCzU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urisv\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BetterTerraria\\BetterTerraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urisv\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\urisv\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\urisv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\urisv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

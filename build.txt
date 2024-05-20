@@ -1,0 +1,3 @@
+displayName = Better Terraria
+author = RiptideDev
+version = 0.1
