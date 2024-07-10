@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterTerraria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e942cf7349de53259f24baada5f0f70181d9e28c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63d6097e10cfb9e15b6dbae973a527a59dfeb98")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterTerraria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterTerraria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

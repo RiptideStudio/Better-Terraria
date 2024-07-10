@@ -1,0 +1,380 @@
+﻿++Solution 'BetterTerraria' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BetterTerraria.sln
+++BetterTerraria
+i:{00000000-0000-0000-0000-000000000000}:BetterTerraria
+++Dependencies
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:>1185
+++Properties
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\properties\
+++Accessories
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\
+++BandOfRegeneration.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\bandofregeneration.cs
+++BandOfStarpower.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\bandofstarpower.cs
+++BigFeather.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\bigfeather.cs
+++BigFeather.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\bigfeather.png
+++ManaRegenerationBand.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\manaregenerationband.cs
+++Shackle.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\accessories\shackle.cs
+++Armor
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\
+++Items
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\
+++Localization
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\localization\
+++Materials
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\materials\
+++LegalGunParts.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\materials\legalgunparts.cs
+++LegalGunParts.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\materials\legalgunparts.png
+++Projectiles
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\
+++Weapons
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\
+++BetterTerraria.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\betterterraria.cs
+++build.txt
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\build.txt
+++description.txt
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\description.txt
+++GlobalPlayer.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\globalplayer.cs
+++icon.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\icon.png
+++WorldItem.cs
+++WorldNpc.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\worldnpc.cs
+++WorldSystem.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\worldsystem.cs
+++Analyzers
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:analyzers
+++Assemblies
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:assemblies
+++Frameworks
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:frameworks
+++Packages
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:packages
+++launchSettings.json
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\properties\launchsettings.json
+++CopperArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\copperarmor.cs
+++GoldArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\goldarmor.cs
+++IronArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\ironarmor.cs
+++LeadArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\leadarmor.cs
+++PlatinumArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\platinumarmor.cs
+++SilverArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\silverarmor.cs
+++TinArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\tinarmor.cs
+++TungstenArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\tungstenarmor.cs
+++WoodenArmor.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\armor\woodenarmor.cs
+++FlamingArrow.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\flamingarrow.cs
+++FlamingDagger.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\flamingdagger.cs
+++FlamingDagger.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\flamingdagger.png
+++FrostburnArrow.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\frostburnarrow.cs
+++RubberBullet.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\rubberbullet.cs
+++RustyKnife.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\rustyknife.cs
+++RustyKnife.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\rustyknife.png
+++en-US_Mods.BetterTerraria.hjson
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\localization\en-us_mods.betterterraria.hjson
+++FlamingDaggerProjectile.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\flamingdaggerprojectile.cs
+++FlamingDaggerProjectile.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\flamingdaggerprojectile.png
+++RubberBulletProjectile.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\rubberbulletprojectile.cs
+++RustyKnifeProjectile.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\rustyknifeprojectile.cs
+++RustyKnifeProjectile.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\rustyknifeprojectile.png
+++OreGear
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\
+++Boomstick.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\boomstick.cs
+++CactusSword.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\cactussword.cs
+++FlintlockPistol.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\flintlockpistol.cs
+++ZombieArm.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\zombiearm.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++tModLoader.CodeAssist
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\.nuget\packages\tmodloader.codeassist\0.1.5\analyzers\dotnet\cs\tmodloader.codeassist.dll
+++Basic.Reference.Assemblies.Net80
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\basic.reference.assemblies.net80\1.5.0\lib\netstandard2.0\basic.reference.assemblies.net80.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\humanizer.core\2.14.1\lib\net6.0\humanizer.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.common\4.9.2\lib\net7.0\Microsoft.CodeAnalysis.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.common\4.9.2\lib\net7.0\microsoft.codeanalysis.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.common\4.9.2\lib\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.common\4.9.2\lib\net7.0\microsoft.codeanalysis.workspaces.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\Microsoft.Build.Locator.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.build.locator.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.codeanalysis.workspaces.msbuild.buildhost.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.dependencyinjection.abstractions.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\Microsoft.Extensions.Logging.Abstractions.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.logging.abstractions.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\Newtonsoft.Json.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\newtonsoft.json.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.Composition.AttributedModel.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.composition.attributedmodel.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.Composition.Convention.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.composition.convention.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.Composition.Hosting.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.composition.hosting.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.Composition.Runtime.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.composition.runtime.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.Composition.TypedParts.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.composition.typedparts.dll
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\BuildHost-netcore\System.IO.Pipelines.dll
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.io.pipelines.dll
+++CsvHelper
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\csvhelper\2.0.0.0\csvhelper.dll
+++DotNetZip
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\dotnetzip\1.16.0\lib\netstandard2.0\dotnetzip.dll
+++FNA
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\fna\1.0.0\fna.dll
+++Hjson
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\hjson\3.0.0\lib\netstandard1.3\hjson.dll
+++Humanizer
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\humanizer.dll
+++log4net
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\log4net\2.0.8.0\log4net.dll
+++Microsoft.Build
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build\17.3.2\lib\net6.0\microsoft.build.dll
+++Microsoft.Build.Framework
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build.framework\17.3.2\lib\net6.0\microsoft.build.framework.dll
+++Microsoft.Build.Locator
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build.locator\1.7.8\lib\net6.0\microsoft.build.locator.dll
+++Microsoft.Build.Tasks.Core
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build.tasks.core\17.3.2\lib\net6.0\microsoft.build.tasks.core.dll
+++Microsoft.Build.Utilities.Core
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build.utilities.core\17.3.2\lib\net6.0\microsoft.build.utilities.core.dll
+++Microsoft.CodeAnalysis
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp\4.9.2\lib\net7.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp.workspaces\4.9.2\lib\net7.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\lib\net7.0\microsoft.codeanalysis.externalaccess.razorcompiler.dll
+++Microsoft.CodeAnalysis.FlowAnalysis.Utilities
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.flowanalysis.utilities\2.9.6\lib\netstandard1.3\microsoft.codeanalysis.flowanalysis.utilities.dll
+++Microsoft.CodeAnalysis.Workspaces
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\lib\net7.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\lib\net7.0\microsoft.codeanalysis.workspaces.msbuild.buildhost.dll
+++Microsoft.Extensions.Configuration
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.Abstractions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.DependencyInjection
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.extensions.dependencyinjection.abstractions\8.0.0\lib\net8.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.Logging
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Logging.Abstractions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.extensions.logging.abstractions\8.0.0\lib\net8.0\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Options
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.options.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Primitives
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\microsoft.extensions.primitives.dll
+++Microsoft.NET.StringTools
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.net.stringtools\17.3.2\lib\net6.0\microsoft.net.stringtools.dll
+++Microsoft.Win32.SystemEvents
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.win32.systemevents\6.0.0\lib\net6.0\microsoft.win32.systemevents.dll
+++Mono.Cecil
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.5\lib\netstandard2.0\mono.cecil.dll
+++Mono.Cecil.Mdb
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.5\lib\netstandard2.0\mono.cecil.mdb.dll
+++Mono.Cecil.Pdb
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.5\lib\netstandard2.0\mono.cecil.pdb.dll
+++Mono.Cecil.Rocks
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.5\lib\netstandard2.0\mono.cecil.rocks.dll
+++MonoMod.Backports
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.backports\1.1.0\lib\net8.0\monomod.backports.dll
+++MonoMod.Core
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.core\1.1.0\lib\net8.0\monomod.core.dll
+++MonoMod.Iced
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.core\1.1.0\lib\net8.0\monomod.iced.dll
+++MonoMod.ILHelpers
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.ilhelpers\1.0.1\lib\net8.0\monomod.ilhelpers.dll
+++MonoMod.RuntimeDetour
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.runtimedetour\25.1.0\lib\net8.0\monomod.runtimedetour.dll
+++MonoMod.Utils
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.utils\25.0.4\lib\net8.0\monomod.utils.dll
+++MP3Sharp
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mp3sharp\1.0.0.0\mp3sharp.dll
+++Newtonsoft.Json
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\newtonsoft.json\13.0.3\lib\net6.0\newtonsoft.json.dll
+++NVorbis
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\nvorbis\0.10.0.3\nvorbis.dll
+++RailSDK.Net
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\railsdk.net\1.0.0.0\railsdk.net.dll
+++ReLogic
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\relogic\1.0.0\relogic.dll
+++Steamworks.NET
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steamworks.net\20.1.0\lib\netstandard2.1\steamworks.net.dll
+++SteelSeriesEngineWrapper
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steelseriesenginewrapper\1.0.0.0\steelseriesenginewrapper.dll
+++Stubble.Core
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\stubble.core\1.10.8\lib\netstandard2.0\stubble.core.dll
+++System.CodeDom
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.codedom\6.0.0\lib\net6.0\system.codedom.dll
+++System.Collections.Immutable
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.collections.immutable.dll
+++System.CommandLine
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.commandline.dll
+++System.Composition.AttributedModel
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.attributedmodel\8.0.0\lib\net8.0\system.composition.attributedmodel.dll
+++System.Composition.Convention
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.convention\8.0.0\lib\net8.0\system.composition.convention.dll
+++System.Composition.Hosting
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.hosting\8.0.0\lib\net8.0\system.composition.hosting.dll
+++System.Composition.Runtime
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.runtime\8.0.0\lib\net8.0\system.composition.runtime.dll
+++System.Composition.TypedParts
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.typedparts\8.0.0\lib\net8.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.configuration.configurationmanager\6.0.0\lib\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.drawing.common\6.0.0\lib\net6.0\system.drawing.common.dll
+++System.IO.Pipelines
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.io.pipelines\8.0.0\lib\net8.0\system.io.pipelines.dll
+++System.Reflection.Metadata
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.reflection.metadata.dll
+++System.Reflection.MetadataLoadContext
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.reflection.metadataloadcontext\8.0.0\lib\net8.0\system.reflection.metadataloadcontext.dll
+++System.Resources.Extensions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.resources.extensions\6.0.0\lib\net6.0\system.resources.extensions.dll
+++System.Security.Cryptography.Pkcs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.cryptography.pkcs\6.0.1\lib\net6.0\system.security.cryptography.pkcs.dll
+++System.Security.Cryptography.ProtectedData
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.cryptography.protecteddata\6.0.0\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Cryptography.Xml
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.cryptography.xml\6.0.0\lib\net6.0\system.security.cryptography.xml.dll
+++System.Security.Permissions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.permissions\6.0.0\lib\net6.0\system.security.permissions.dll
+++System.Text.Encodings.Web
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.text.encodings.web.dll
+++System.Text.Json
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.text.json.dll
+++System.Threading.Channels
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.9.2\buildhost-netcore\system.threading.channels.dll
+++System.Windows.Extensions
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.windows.extensions\6.0.0\lib\net6.0\system.windows.extensions.dll
+++TerrariaHooks
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\terrariahooks\0.0.0.0\terrariahooks.dll
+++tModLoader
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\tmodloader.dll
+++tModPorter
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\tmodporter\1.0.0\tmodporter.dll
+++UtfUnknown
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\utf.unknown\2.5.0\lib\netcoreapp3.0\utfunknown.dll
+++Microsoft.NETCore.App
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\microsoft.netcore.app
+++tModLoader.CodeAssist (0.1.5)
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:>1287
+++CopperGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\coppergear.cs
+++GoldGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\goldgear.cs
+++IronGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\irongear.cs
+++LeadGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\leadgear.cs
+++PlatinumGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\platinumgear.cs
+++SilverGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\silvergear.cs
+++TinGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\tingear.cs
+++TungstenGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\tungstengear.cs
+++WoodenGear.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\weapons\oregear\woodengear.cs
+++.gitattributes
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\.gitattributes
+++GelBullet.png
+++RubberBullet.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\items\rubberbullet.png
+++RubberBulletProjectile.png
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\projectiles\rubberbulletprojectile.png
+++GelBulletProjectile.png
+++Entities
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\
+++Enemies
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\
+++Vulture.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\vulture.cs
+++NPCs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\npcs\
+++ArmsDealer.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\npcs\armsdealer.cs
+++ArmsDealer copy.cs
+++Vulture copy.cs
+++Antlion.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\antlion.cs
+++Antlion copy.cs
+++FlyingFish.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\flyingfish.cs
+++DeathEater.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\deatheater.cs
+++DeathEater copy.cs
+++FaceMonster.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\entities\enemies\facemonster.cs
+++Common.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\common\common.cs
+++Common
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\common\
+++Recipes
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\recipes\
+++HermesBootsRecipe.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\recipes\hermesbootsrecipe.cs
+++HermesBootsRecipe copy.cs
+++ThrowingKnifeRecipe.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\recipes\throwingkniferecipe.cs
+++ThrowingKnifeRecipe copy.cs
+++Shurkien.cs
+++Shuriken.cs
+++Shuriken copy.cs
+++WoodenArrowRecipe.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\recipes\woodenarrowrecipe.cs
+++ShurikenRecipe.cs
+i:{4bb7610b-1821-45c9-a29f-81cbee557575}:c:\users\urisv\documents\my games\terraria\tmodloader\modsources\betterterraria\recipes\shurikenrecipe.cs
